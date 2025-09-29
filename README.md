@@ -15,7 +15,7 @@ I opened up the Arcam Radio and checked if I could connect something to the inte
 And it was easier then I tought.
 
 
-I looked up the Data sheet of the WM8740 and found that it had an I2S option witch you can connect to an USB to I2S converter.
-For the test I used the PCM2706 (a complete PCB), USB in I2S out, Bought online.
+I looked up the Data sheet of the WM8740 and found that it had an I2S option witch you can connect to an USB to I2S converter.  
+For the test I used the PCM2706 (a complete PCB), USB in I2S out, Bought online.  
 Inside the Arcam was a white connection with the connections I needed to connect to the PCM2706.
 
