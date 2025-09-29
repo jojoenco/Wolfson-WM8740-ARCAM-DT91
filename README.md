@@ -11,7 +11,7 @@ Is it maybe possible to use the DA-Converter with something else. (just for the 
 I use a Raspberry-Pi for PiCorePlayer and that works great.
 It is also possible to use the PiCorePlayer with an external DAC connected to the USB of the Raspberry-Pi.
 
-I opened up the Arcam Radio and checked if I could connect something to the internal DAC-Chip to make it an external DAC.
+I opened up the Arcam Radio and checked if I could connect something to the internal DAC-Chip to make it an external DAC.  
 And it was easier then I tought.
 
 
