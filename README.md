@@ -19,3 +19,4 @@ I looked up the Data sheet of the WM8740 and found that it had an I2S option wit
 For the test I used the PCM2706 (a complete PCB), USB in I2S out, Bought online.  
 Inside the Arcam was a white connection with the connections I needed to connect to the PCM2706.
 
+![PXL_20250731_135114947](https://github.com/user-attachments/assets/f5f61886-9510-4d88-9d36-62101d3c1d77)
