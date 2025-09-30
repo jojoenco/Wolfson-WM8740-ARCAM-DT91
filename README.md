@@ -33,5 +33,6 @@ CON402 Has 6 connections with the arrow as nr1.
 6 GND  
 
 The PCM2706 PCB has also the same connections on the right side.  
-But I dont use the 5V connection, it gets power from the USB connection.  
+But I dont use the 5V connection, it gets power from the USB connection connected to the Pi.
+
 
