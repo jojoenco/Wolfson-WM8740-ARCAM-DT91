@@ -18,6 +18,7 @@ And it was easier then I tought.
 I looked up the Data sheet of the WM8740 and found that it had an I2S option witch you can connect to an USB to I2S converter.  
 For the test I used the PCM2706 (a complete PCB), USB in I2S out, Bought online.  
 
-<img width="337" height="204" alt="PCM2706small" src="https://github.com/user-attachments/assets/6a126723-f22f-49b6-acd4-2d51f1e12f6c" />
+<img width="337" height="204" alt="PCM2706small" src="https://github.com/user-attachments/assets/6a126723-f22f-49b6-acd4-2d51f1e12f6c" />  
 Inside the Arcam was a white connection with the connections I needed to connect to the PCM2706.  
+
 <img width="353" height="274" alt="PCM2706small" src="https://github.com/user-attachments/assets/11a59549-b229-4caa-82a3-e23b5c66f8bd" />
