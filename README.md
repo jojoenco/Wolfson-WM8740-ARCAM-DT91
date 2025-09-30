@@ -25,9 +25,9 @@ Inside the Arcam was a white connection with the connections I needed to connect
 <img width="353" height="274" alt="PCM2706small" src="https://github.com/user-attachments/assets/11a59549-b229-4caa-82a3-e23b5c66f8bd" />
 
 CON402 Has 6 connections with the arrow as nr1.
-1 dont use
-2 BCK
-3 DATA
-4 LCK
-5 SCK
-6 GND
+1 dont use  
+2 BCK  
+3 DATA  
+4 LCK  
+5 SCK  
+6 GND  
