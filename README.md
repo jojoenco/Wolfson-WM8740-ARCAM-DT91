@@ -35,4 +35,10 @@ CON402 Has 6 connections with the arrow as nr1.
 The PCM2706 PCB has also the same connections on the right side.  
 But I dont use the 5V connection, it gets power from the USB connection connected to the Pi.
 
+But it didn´t work directly.  
+The WM8740 had to be set on I2S mode.  
+So I lift up to legs of the chip and conneted it to 5V, Nr 23 and 28 of the chip.  
+
+
+
 
