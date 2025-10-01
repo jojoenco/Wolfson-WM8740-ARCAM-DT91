@@ -37,8 +37,9 @@ But I dont use the 5V connection, it gets power from the USB connection connecte
 
 But it didn´t work directly.  
 The WM8740 had to be set on I2S mode.  
-So I lift up to legs of the chip and conneted it to 5V, Nr 23 and 28 of the chip.  
+So I lift up to legs of the chip that needed to be set on High and conneted them to 5V, that is Nr 23 and 28 of the chip.  
 
+![WM8740-I2S](https://github.com/user-attachments/assets/1c8aba13-b08c-43ed-beb6-f2c2f4c40fbd)
 
 
 
