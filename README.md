@@ -39,7 +39,12 @@ But it didn´t work directly.
 The WM8740 had to be set on I2S mode.  
 So I lift up to legs of the chip that needed to be set on High and conneted them to 5V, that is Nr 23 and 28 of the chip.  
 
-![WM8740-I2S](https://github.com/user-attachments/assets/1c8aba13-b08c-43ed-beb6-f2c2f4c40fbd)
+![WM8740-I2S](https://github.com/user-attachments/assets/1c8aba13-b08c-43ed-beb6-f2c2f4c40fbd)  
+
+Then i setup the raspberry-pi with Picoreplayer and connected the micro-usb to the pi.  
+https://www.picoreplayer.org/  
+
+
 
 
 
