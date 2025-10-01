@@ -41,10 +41,15 @@ So I lift up to legs of the chip that needed to be set on High and conneted them
 
 ![WM8740-I2S](https://github.com/user-attachments/assets/1c8aba13-b08c-43ed-beb6-f2c2f4c40fbd)  
 
+Then I removed the DAB antenne signal print with the DSP DRE200P tuner chip, may interfere with the digital signal.  
+
 Then i setup the raspberry-pi with Picoreplayer and connected the micro-usb to the pi.  
 https://www.picoreplayer.org/  
 
 ![pi-connected to test-small](https://github.com/user-attachments/assets/521228bd-16ea-4a66-b6c3-a27b753b3a98)
+
+I tested it on small computer speakers and it works, and the sound was good.  
+
 
 
 
