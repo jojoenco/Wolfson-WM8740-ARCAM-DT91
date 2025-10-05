@@ -60,7 +60,8 @@ https://docs.picoreplayer.org/projects/add-a-1-54-inch-spi-display/
 
 Then I used a display already supported by PicorePlayer, that is a 1.5inch st7789 display, and fit it between the metal plate in the front and the button print.  
 But in front of the display there is a orange kind of plastick glass, so the picture looks like a sepia photo.  
-![ST7789sepia](https://github.com/user-attachments/assets/8132ef42-4ef6-4edf-82e3-13fb6c7f546d)
+![ST7789sepia2](https://github.com/user-attachments/assets/8aa08a8b-3035-4fdd-bd69-6470b5ea34c5)
+
 
 
 
