@@ -69,19 +69,36 @@ Then I connected and soldered everything inside.
 
 # Terrible sound
 And then I connected it to the Amplifier, and tested the sound.  
-It was terrible cracks and clicks and pops in the sound, and I tought what can it be I only connected a screen and assembled everyting together.  
-So I chanced the power supply (and tested), disconnected the screen (and tested), cut the data lines on the PCB comming from tghe other side of the mainboard (and tested).  
+It was terrible cracks and clicks and pops in the sound, and I tought what can it be, I only connected a screen and assembled everyting together.  
+So I chanced the power supply (and tested), disconnected the screen (and tested), cut the data lines on the PCB comming from the other side of the mainboard (and tested).  
 ![Data lines cut2](https://github.com/user-attachments/assets/2af120b7-073e-4733-ad51-c31b9c964296)
 
 
 Nothing worked.  
 Than I changed the RaspberryPi, it was an 3B Now a RaspberryPi 4. (and i tested it)  
-Still solved.  
+Still not solved.  
 Pffffff.....  
+## solved
 Then I tought the only thing that I did not change is the ribon-cable between the PCM2706 and the WM8740.  
 I changed it for an audio cable with shielding, and that changed everyting. :blush:  
 ![shieldingCable](https://github.com/user-attachments/assets/00f5232b-c78b-4a7e-be74-f96fb7269937)  
 Perfect and clean sound, looks like the folded ribon-cable picked up digital noise.  
+
+## PCM2706  
+The USB to i2s converter, is a €5,- simple converter max 16bits 48Khz.  
+There ar better (meening Higher specs, don´t kwon if it sounds better, have not tried it yet) models like the Ct7601 or sometink like that, they can be set to 24bits 192Khz, I will test that later.  
+
+#  Buttons and rotary  
+https://docs.picoreplayer.org/projects/control-jivelite-by-rotary-encoders-and-buttons/  
+The front of the DT91 also has A rotary Knob and some buttons.  
+I took off the White ribon cable from the front PCB to the main PCB because of the voltage on the print (22 Volt to the Fluor Display), to prevent it from going to the RaspberryPi, and make damage.  
+Then I desoldered the SMD resistors on the front pcb close to the rotary and the buttons i wanted to use, and soldered some cables to the back contacts of the buttons and the rotary, and connected it to the raspberrypi, and followed the description on the site from raspberrypi jivelite rotary encoders and buttons, But that did not work, got an error.  
+Then I asked my son he looked at the script and changed some things, then i tried it again and it worked, but turning was the other way around, asked my son again and solved.  
+So my advice is if it doesn´t work ask you son. :blush:  
+
+
+
+
 
 
  
