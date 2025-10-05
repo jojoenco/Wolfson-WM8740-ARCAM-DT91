@@ -74,10 +74,14 @@ So I chanced the power supply (and tested), disconnected the screen (and tested)
 ![Data lines cut2](https://github.com/user-attachments/assets/2af120b7-073e-4733-ad51-c31b9c964296)
 
 
-Nothing worked.
+Nothing worked.  
+Than I changed the RaspberryPi, it was an 3B Now a RaspberryPi 4. (and i tested it)  
+Still solved.  
+Pffffff.....  
+Then I tought the only thing that I did not change is the ribon-cable between the PCM2706 and the WM8740.  
+I changed it for an audio cable with shielding, and that changed everyting. :)  
 
-
-
+ 
 
 
 
