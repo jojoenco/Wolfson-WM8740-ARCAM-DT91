@@ -42,7 +42,7 @@ So I lift up to legs of the chip that needed to be set on High and conneted them
 
 ![WM8740-I2S](https://github.com/user-attachments/assets/1c8aba13-b08c-43ed-beb6-f2c2f4c40fbd)  
 
-Then I removed the DAB antenne signal print with the DSP DRE200P tuner chip, may interfere with the digital signal.  
+Then I removed the DAB antenne signal print with the DSP DRE200P tuner chip, may otherwise interfere with the digital signal.  
 
 Then i setup the raspberry-pi with Picoreplayer and connected the micro-usb to the pi.  
 https://www.picoreplayer.org/  
@@ -53,6 +53,13 @@ I tested it on small computer speakers and it works, and the sound was good.
 
 ## fluorescent screen
 
+The DT91 also has an Fluorescent screen and I tought maybe I can use it to display the song information, but I could not get it to display the right information, only stripes and loose letters or something like that.  
+Maybe later I figure it out.  
+# ST7789  
+https://docs.picoreplayer.org/projects/add-a-1-54-inch-spi-display/  
+
+Then I used a display already supported by PicorePlayer, that is a 1.5inch st7789 display, and fit it between the metal plate in the front and the button print.  
+But in front of the display there is a orange kind of plastick glass, so the picture looks like a sepia photo.  
 
 
 
