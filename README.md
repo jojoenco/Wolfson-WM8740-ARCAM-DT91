@@ -98,6 +98,8 @@ Then I asked my son he looked at the script and changed some things, then I trie
 So my advice is if it doesn´t work, ask your son. :blush:  
 
 ## WiFi  
+When you close the DT91 the raspberryPi has no WiFi anymore, the case of the Dab radio is almost completely from matal (Faraday cage), when you need WiFi then you have to move the antanna outside of the case.  
+![antanna](https://github.com/user-attachments/assets/f352ee55-c219-4e03-ba5c-3701b61d0d50)
 
 ## USB Back
 
