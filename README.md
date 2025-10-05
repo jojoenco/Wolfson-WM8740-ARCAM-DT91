@@ -55,7 +55,7 @@ I tested it on small computer speakers and it works, and the sound was good.
 
 The DT91 also has an Fluorescent screen and I tought maybe I can use it to display the song information, but I could not get it to display the right information, only stripes and loose letters or something like that.  
 Maybe later I figure it out.  
-# ST7789  
+### ST7789  
 https://docs.picoreplayer.org/projects/add-a-1-54-inch-spi-display/  
 
 Then I used a display already supported by PicorePlayer, that is a 1.5inch st7789 display, and fit it between the metal plate in the front and the button print.  
