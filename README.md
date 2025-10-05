@@ -79,7 +79,10 @@ Than I changed the RaspberryPi, it was an 3B Now a RaspberryPi 4. (and i tested 
 Still solved.  
 Pffffff.....  
 Then I tought the only thing that I did not change is the ribon-cable between the PCM2706 and the WM8740.  
-I changed it for an audio cable with shielding, and that changed everyting. :)  
+I changed it for an audio cable with shielding, and that changed everyting. :blush:  
+![shieldingCable](https://github.com/user-attachments/assets/00f5232b-c78b-4a7e-be74-f96fb7269937)  
+Perfect and clean sound, looks like the folded ribon-cable picked up digital noise.  
+
 
  
 
