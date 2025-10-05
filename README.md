@@ -86,7 +86,7 @@ Perfect and clean sound, looks like the folded ribon-cable picked up digital noi
 
 ## PCM2706  
 The USB to i2s converter, is a €5,- simple converter max 16bits 48Khz.  
-There ar better (meening Higher specs, don´t kwon if it sounds better, have not tried it yet) models like the Ct7601 or sometink like that, they can be set to 24bits 192Khz, I will test that later.  
+There ar better (meening Higher specs, don´t know if it sounds better, have not tried it yet) models like the Ct7601 or sometink like that, they can be set to 24bits 192Khz, I will test that later.  
 
 #  Buttons and rotary  
 https://docs.picoreplayer.org/projects/control-jivelite-by-rotary-encoders-and-buttons/  
