@@ -4,17 +4,17 @@ The Arcam DT91 is a Dab/FM radio from Camebridge.
 Now in the hands of the brand Harman which is owned by Samsung.
 
 The Arcam DT91 is about 20 years old, and works fine except DAB (Not DAB+) is not supported anymore. (in the Netherlands)  
-And it was standing there doing nothing.
-Then I thought the sound from the DA-Converter (DAC WM8740) was always good when playing DAB radio.
-Is it maybe possible to use the DA-Converter with something else. (just for the fun of it)
+And it was standing there doing nothing.  
+Then I thought the sound from the DA-Converter (DAC WM8740) was always good when playing DAB radio.  
+Is it maybe possible to use the DA-Converter with something else. (just for the fun of it)  
 
-## make an external DAC from the Arcam DT91
-I use a Raspberry-Pi for PiCorePlayer and that works great.
+## make an external DAC from the Arcam DT91  
+
+I use a Raspberry-Pi for PiCorePlayer and that works great.  
 It is also possible to use the PiCorePlayer with an external DAC connected to the USB of the Raspberry-Pi.
 
 I opened up the Arcam Radio and checked if I could connect something to the internal DAC-Chip to make it an external DAC.  
 And it was easier then I tought.
-
 
 I looked up the Data sheet of the WM8740 and found that it had an I2S option witch you can connect to an USB to I2S converter.  
 For the test I used the PCM2706 (a complete PCB), USB in I2S out, Bought online.  
