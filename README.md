@@ -106,6 +106,7 @@ Sometimes you need to complete something with the mouse on the pi, and you can o
 ![USB Cable](https://github.com/user-attachments/assets/b8e5319e-78d7-4b7a-9523-7a96db041083)
 ![USB Hole2](https://github.com/user-attachments/assets/e7316b34-3042-4557-b929-f85be1720e9a)
 
+### DAC Setting in picorePlayer
 
 
 # In short:  
