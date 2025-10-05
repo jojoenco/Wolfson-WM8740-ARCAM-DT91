@@ -65,7 +65,17 @@ But in front of the display there is a orange kind of plastick glass, so the pic
 # assamble everything inside  
 
 Then I connected and soldered everything inside.  
-![Pi3Binside](https://github.com/user-attachments/assets/223e2dc7-a1c1-4640-8a61-76390a4a4ec6)
+![Pi3Binside2](https://github.com/user-attachments/assets/9646cf67-2f54-400e-9180-57d34795dd77)  
+
+# Terrible sound
+And then I connected it to the Amplifier, and tested the sound.  
+It was terrible cracks and clicks and pops in the sound, and I tought what can it be I only connected a screen and assembled everyting together.  
+So I chanced the power supply (and tested), disconnected the screen (and tested), cut the data lines on the PCB comming from tghe other side of the mainboard (and tested).  
+![Data lines cut](https://github.com/user-attachments/assets/42ae6c08-da84-4e87-886f-0735188ae50e)  
+
+Nothing worked.
+
+
 
 
 
