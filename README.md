@@ -96,6 +96,13 @@ Then I desoldered the SMD resistors on the front pcb close to the rotary and the
 Then I asked my son he looked at the script and changed some things, then i tried it again and it worked, but turning was the other way around, asked my son again and solved.  
 So my advice is if it doesn´t work ask you son. :blush:  
 
+## WiFi  
+
+## USB Back
+
+# In short:  
+Open DT91 find White connector next to the  
+
 
 
 
