@@ -103,6 +103,8 @@ When you close the DT91 the raspberryPi has no WiFi anymore, the case of the Dab
 
 ## USB Back  
 Sometimes you need to complete something with the mouse on the pi, and you can open the case every time and connedct a mouse, but with the Tuner PCB removed there is a hole to connect the USB extension cable so you can connect a mouse on the outside.  
+![USB Cable](https://github.com/user-attachments/assets/b8e5319e-78d7-4b7a-9523-7a96db041083)
+![USB Hole](https://github.com/user-attachments/assets/0e718152-e5ad-4800-a68e-b55e9b5b5016)
 
 
 # In short:  
