@@ -71,7 +71,8 @@ Then I connected and soldered everything inside.
 And then I connected it to the Amplifier, and tested the sound.  
 It was terrible cracks and clicks and pops in the sound, and I tought what can it be I only connected a screen and assembled everyting together.  
 So I chanced the power supply (and tested), disconnected the screen (and tested), cut the data lines on the PCB comming from tghe other side of the mainboard (and tested).  
-![Data lines cut](https://github.com/user-attachments/assets/42ae6c08-da84-4e87-886f-0735188ae50e)  
+![Data lines cut2](https://github.com/user-attachments/assets/2af120b7-073e-4733-ad51-c31b9c964296)
+
 
 Nothing worked.
 
