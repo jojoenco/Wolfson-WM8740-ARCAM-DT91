@@ -101,7 +101,9 @@ So my advice is if it doesn´t work, ask your son. :blush:
 When you close the DT91 the raspberryPi has no WiFi anymore, the case of the Dab radio is almost completely from matal (Faraday cage), when you need WiFi then you have to move the antanna outside of the case.  
 ![antanna](https://github.com/user-attachments/assets/f352ee55-c219-4e03-ba5c-3701b61d0d50)
 
-## USB Back
+## USB Back  
+Sometimes you need to complete something with the mouse on the pi, and you can open the case every time and connedct a mouse, but with the Tuner PCB removed there is a hole to connect the USB extension cable so you can connect a mouse on the outside.  
+
 
 # In short:  
 Open DT91 find White connector next to the  
