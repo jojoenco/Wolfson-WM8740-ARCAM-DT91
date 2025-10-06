@@ -110,7 +110,17 @@ Sometimes you need to complete something with the mouse on the pi, and you can o
 
 
 # In short:  
-Open DT91 find White connector next to the  
+Open DT91 and find White connector CON402 in between the Tuner PCB and the WM8740 Chip.  
+Connect the contacts to the I2S converter. (in my case PCM2706)
+Pinout CON402:  
+CON402 Has 6 connections with the arrow as pin 1.  ![CON402](https://github.com/user-attachments/assets/bcc9cce5-4e98-4ea8-abe1-f334d2d36f1c)
+
+1. (dont use)  
+2. BCK  
+3. DATA  
+4. LCK  
+5. SCK  
+6. GND  
 
 
 
