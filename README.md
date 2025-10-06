@@ -110,8 +110,8 @@ Sometimes you need to complete something with the mouse on the pi, and you can o
 
 
 # In short:  
-Open DT91 and find White connector CON402 in between the Tuner PCB and the WM8740 Chip.  
-Connect the contacts to the I2S converter. (in my case PCM2706)
+- Open DT91 and find White connector CON402 in between the Tuner PCB and the WM8740 Chip.  
+- Connect the contacts to the I2S converter. (in my case PCM2706)
 Pinout CON402:  
 CON402 Has 6 connections with the arrow as pin 1.  ![CON402](https://github.com/user-attachments/assets/bcc9cce5-4e98-4ea8-abe1-f334d2d36f1c)
 
@@ -121,7 +121,11 @@ CON402 Has 6 connections with the arrow as pin 1.  ![CON402](https://github.com/
 4. LCK  
 5. SCK  
 6. GND  
-
+- Use a shielding short cable !!!!!
+- connect to USB port of the RaspberryPi
+- Install picorePlayer and set to USB DAC
+- Lift up Pin 28 and 23 and connect to 5V (to set in I2S mode)
+- Test Line out of the DT91
 
 
 
