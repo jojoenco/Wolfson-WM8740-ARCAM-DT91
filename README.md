@@ -2,6 +2,8 @@
 
 The Arcam DT91 is a Dab/FM radio from Cambridge.
 Now in the hands of the brand Harman which is currently owned by Samsung.
+![ARCAM DT91](https://github.com/user-attachments/assets/c9fe7d45-bee0-4e87-b4bf-8d0cd31a86f7)
+
 
 The Arcam DT91 is about 20 years old, and works fine except that DAB (Not DAB+) is not supported anymore (in the Netherlands).  
 And it was sitting around collecting dust.  
